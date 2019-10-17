@@ -10,10 +10,7 @@ def introduction(name)
 end
 
 
-name = "Dan"
-
-
-def introduction_with_language(name, language="Ember.js")
+def introduction_with_language(Dan, Ember.js)
   puts "Hi, my name is #{name}, and I am learning to program in #{language}."
 end 
 
