@@ -4,11 +4,13 @@
 # in order to complete the rest of this course and be ready for the next course!
 
 name = "Josh"
+language = "Ruby"
 def introduction(name)
   puts "Hi, my name is #{name}."
 end
 
-
+def introduction_with_language(name, language)
+  puts "Hi, my name is #{name}, and "  
 
 
 
